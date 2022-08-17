@@ -1,0 +1,6 @@
+@use "variables";
+
+@mixin GiveColor {
+  cursor: pointer;
+  color: variables.$Cyan;
+}
